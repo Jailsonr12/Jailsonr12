@@ -1,7 +1,7 @@
 ### Hi there, I am Jailson Roth👋
 
 
-- 🔭 I’m currently working on Berkan TI solution
+- 🔭 I’m currently working on Berkan IT solution
 - 🌱 I’m currently learning C#, Front-end and SQL SERVE
 - 😄 Pronouns: He/His
 
