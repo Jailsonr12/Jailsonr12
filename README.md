@@ -29,7 +29,7 @@
  
   ![Snake animation](https://github.com/Jailsonr12/Jailsonr12/blob/output/github-contribution-grid-snake.svg)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jailsonr12&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jailsonr12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  
 
