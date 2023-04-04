@@ -1,8 +1,8 @@
-### Hi there, I am Jailson Roth👋
-
 <div >
-  <img height="10em"src="https://www.codewars.com/users/Jailsonr12/badges/large"/>
+  <img height="20em"src="https://www.codewars.com/users/Jailsonr12/badges/large"/>
   </div>
+
+### Hi there, I am Jailson Roth👋
 - 🔭 I’m currently working on Berkan IT solution
 - 🌱 I’m currently learning C#, Front-end and SQL SERVE
 - 😄 Pronouns: He/His
