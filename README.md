@@ -3,8 +3,8 @@
   </div>
 
 ### Hi there, I am Jailson Roth👋
-- 🔭 I’m currently working on Berkan IT solution
-- 🌱 I’m currently learning C#, Front-end and SQL SERVE
+- 🔭 I am currently unemployed
+- 🌱 I'm currently at Santander Bootcamp 2023 - Fullstack Java + Angular
 - 😄 Pronouns: He/His
 
 <div align="center">
