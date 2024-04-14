@@ -4,7 +4,7 @@
 
 ### Hi there, I am Jailson Roth👋
 - 🔭 I am currently unemployed
-- 🌱 I'm currently at Santander Bootcamp 2023 - Fullstack Java + Angular
+- 🌱 I'm currently at curso.dev
 - 😄 Pronouns: He/His
   ##
  <div> 
